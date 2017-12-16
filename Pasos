@@ -1,0 +1,7 @@
+1-Una String vacia devuelve 0.
+2-Un solo número devuelve su propio valor.
+3-Dos números, separados por una coma, devuelven la suma.
+4-Dos números, separados por un retorno de carro, devuelven la suma.
+5-Tres números, separados por una coma o un retorno de carro, devuelven la suma.
+6-Los números negativos devuelven una excepción.
+7-Los números mayores de 1000 son ignorados.
